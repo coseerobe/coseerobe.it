@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>beni immobili &#8211; Cose&amp;Robe &#8211; Rielaborazioni dataset opendata &#8211; @gbvitrano</title>
+	<atom:link href="https://coseerobe.github.io/coseerobe.it/tag/beni-immobili/feed" rel="self" type="application/rss+xml" />
+	<link>https://coseerobe.github.io/coseerobe.it/</link>
+	<description></description>
+	<lastBuildDate>Sun, 25 Jun 2017 15:16:06 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/favicon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>beni immobili &#8211; Cose&amp;Robe &#8211; Rielaborazioni dataset opendata &#8211; @gbvitrano</title>
+	<link>https://coseerobe.github.io/coseerobe.it/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Geocoding &#8211; elenco degli immobili comunali del Comune di Palermo al 31 dicembre 2016</title>
+		<link>https://coseerobe.github.io/coseerobe.it/lelenco-degli-immobili-comunali-del-comune-di-palermo-aggiornato-al-31-dicembre-2016.html</link>
+		
+		<dc:creator><![CDATA[coseerobe]]></dc:creator>
+		<pubDate>Thu, 22 Jun 2017 11:04:38 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[beni immobili]]></category>
+		<category><![CDATA[comune di palermo]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[geocoding]]></category>
+		<category><![CDATA[openrefine]]></category>
+		<category><![CDATA[palermo]]></category>
+		<guid isPermaLink="false">https://coseerobe.github.io/coseerobe.it/?p=2289</guid>
+
+					<description><![CDATA[<img width="768" height="218" src="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/beni_al_31_12_2016_290.jpg?fit=768%2C218&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="beni immobili comune di palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/beni_al_31_12_2016_290.jpg?w=1024&amp;ssl=1 1024w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/beni_al_31_12_2016_290.jpg?resize=300%2C85&amp;ssl=1 300w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/beni_al_31_12_2016_290.jpg?resize=768%2C218&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="2290" data-permalink="https://coseerobe.github.io/coseerobe.it/lelenco-degli-immobili-comunali-del-comune-di-palermo-aggiornato-al-31-dicembre-2016.html/beni_al_31_12_2016_290" data-orig-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/beni_al_31_12_2016_290.jpg?fit=1024%2C290&amp;ssl=1" data-orig-size="1024,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Gb-Gis&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1498132195&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="beni_al_31_12_2016_290" data-image-description="" data-image-caption="" data-medium-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/beni_al_31_12_2016_290.jpg?fit=300%2C85&amp;ssl=1" data-large-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/beni_al_31_12_2016_290.jpg?fit=1024%2C290&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

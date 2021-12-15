@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>fasca oraria &#8211; Cose&amp;Robe &#8211; Rielaborazioni dataset opendata &#8211; @gbvitrano</title>
+	<atom:link href="https://coseerobe.github.io/coseerobe.it/tag/fasca-oraria/feed" rel="self" type="application/rss+xml" />
+	<link>https://coseerobe.github.io/coseerobe.it/</link>
+	<description></description>
+	<lastBuildDate>Mon, 05 Jun 2017 19:24:01 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/favicon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>fasca oraria &#8211; Cose&amp;Robe &#8211; Rielaborazioni dataset opendata &#8211; @gbvitrano</title>
+	<link>https://coseerobe.github.io/coseerobe.it/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Siccità, turnazione idrica per alcune zone della città di Palermo</title>
+		<link>https://coseerobe.github.io/coseerobe.it/siccita-turnazione-idrica-per-alcune-zone-della-citta-di-palermo.html</link>
+		
+		<dc:creator><![CDATA[annalisa]]></dc:creator>
+		<pubDate>Mon, 02 Jan 2017 11:43:39 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[acqua]]></category>
+		<category><![CDATA[fasca oraria]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[siccità]]></category>
+		<category><![CDATA[turnazione idrica]]></category>
+		<guid isPermaLink="false">https://coseerobe.github.io/coseerobe.it/?p=945</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/01/mappa_siccità.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Mappa siccità, turnazione idrica per alcune zone della città di Palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/01/mappa_siccità.jpg?w=1084&amp;ssl=1 1084w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/01/mappa_siccità.jpg?resize=300%2C80&amp;ssl=1 300w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/01/mappa_siccità.jpg?resize=768%2C205&amp;ssl=1 768w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/01/mappa_siccità.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="947" data-permalink="https://coseerobe.github.io/coseerobe.it/siccita-turnazione-idrica-per-alcune-zone-della-citta-di-palermo.html/mappa_siccita" data-orig-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/01/mappa_siccità.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Gb-Gis&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1483360015&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappa_siccità" data-image-description="&lt;p&gt;Mappa siccità, turnazione idrica per alcune zone della città di Palermo&lt;/p&gt;
+" data-image-caption="" data-medium-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/01/mappa_siccità.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/01/mappa_siccità.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

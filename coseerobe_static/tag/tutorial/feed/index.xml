@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>tutorial &#8211; Cose&amp;Robe &#8211; Rielaborazioni dataset opendata &#8211; @gbvitrano</title>
+	<atom:link href="https://coseerobe.github.io/coseerobe.it/tag/tutorial/feed" rel="self" type="application/rss+xml" />
+	<link>https://coseerobe.github.io/coseerobe.it/</link>
+	<description></description>
+	<lastBuildDate>Tue, 01 Jun 2021 10:31:18 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/favicon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>tutorial &#8211; Cose&amp;Robe &#8211; Rielaborazioni dataset opendata &#8211; @gbvitrano</title>
+	<link>https://coseerobe.github.io/coseerobe.it/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>HfcQGIS: Help funzioni calcolatore di campi di QGIS</title>
+		<link>https://coseerobe.github.io/coseerobe.it/hfcqgis-help-funzioni-calcolatore-di-campi-di-qgis.html</link>
+		
+		<dc:creator><![CDATA[coseerobe]]></dc:creator>
+		<pubDate>Mon, 23 Jul 2018 09:00:12 +0000</pubDate>
+				<category><![CDATA[tutorial qgis]]></category>
+		<category><![CDATA[Calcolatore di campi]]></category>
+		<category><![CDATA[Giuda]]></category>
+		<category><![CDATA[qgis]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">https://coseerobe.github.io/coseerobe.it/?p=3277</guid>
+
+					<description><![CDATA[<img width="768" height="431" src="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/07/Screenshot_pc_1024.jpg?fit=768%2C431&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="HfcQGIS: Help funzioni calcolatore di campi di QGIS" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/07/Screenshot_pc_1024.jpg?w=1024&amp;ssl=1 1024w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/07/Screenshot_pc_1024.jpg?resize=300%2C168&amp;ssl=1 300w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/07/Screenshot_pc_1024.jpg?resize=768%2C431&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="3278" data-permalink="https://coseerobe.github.io/coseerobe.it/hfcqgis-help-funzioni-calcolatore-di-campi-di-qgis.html/screenshot_pc_1024" data-orig-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/07/Screenshot_pc_1024.jpg?fit=1024%2C575&amp;ssl=1" data-orig-size="1024,575" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screenshot_pc_1024" data-image-description="" data-image-caption="" data-medium-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/07/Screenshot_pc_1024.jpg?fit=300%2C168&amp;ssl=1" data-large-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/07/Screenshot_pc_1024.jpg?fit=1024%2C575&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tutorial per la condivisione della conoscenza</title>
+		<link>https://coseerobe.github.io/coseerobe.it/tutorial-per-la-condivisione-della-conoscenza.html</link>
+		
+		<dc:creator><![CDATA[coseerobe]]></dc:creator>
+		<pubDate>Fri, 02 Jun 2017 14:26:21 +0000</pubDate>
+				<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[accussi]]></category>
+		<category><![CDATA[catalogo]]></category>
+		<category><![CDATA[mappe]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[opendata sicilia]]></category>
+		<category><![CDATA[petrusino]]></category>
+		<category><![CDATA[video tutorial]]></category>
+		<guid isPermaLink="false">https://coseerobe.github.io/coseerobe.it/?p=1797</guid>
+
+					<description><![CDATA[<img width="768" height="218" src="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/tutorial_03.png?fit=768%2C218&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Tutorial per la condivisione della conoscenza" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/tutorial_03.png?w=1024&amp;ssl=1 1024w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/tutorial_03.png?resize=300%2C85&amp;ssl=1 300w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/tutorial_03.png?resize=768%2C218&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="1822" data-permalink="https://coseerobe.github.io/coseerobe.it/tutorial-per-la-condivisione-della-conoscenza.html/tutorial_03" data-orig-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/tutorial_03.png?fit=1024%2C290&amp;ssl=1" data-orig-size="1024,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="tutorial_03" data-image-description="" data-image-caption="" data-medium-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/tutorial_03.png?fit=300%2C85&amp;ssl=1" data-large-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/06/tutorial_03.png?fit=1024%2C290&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tutorial da file pdf a shapefile</title>
+		<link>https://coseerobe.github.io/coseerobe.it/tutorial-da-file-pdf-a-shapefile.html</link>
+		
+		<dc:creator><![CDATA[coseerobe]]></dc:creator>
+		<pubDate>Mon, 08 May 2017 07:00:05 +0000</pubDate>
+				<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[anello ferroviario]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[passante ferroviario]]></category>
+		<category><![CDATA[pdf]]></category>
+		<category><![CDATA[qgis]]></category>
+		<category><![CDATA[shapefile]]></category>
+		<category><![CDATA[shp]]></category>
+		<category><![CDATA[tram]]></category>
+		<guid isPermaLink="false">https://coseerobe.github.io/coseerobe.it/?p=1433</guid>
+
+					<description><![CDATA[<img width="768" height="421" src="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/05/import_pdf_01.jpg?fit=768%2C421&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Tutorial da file pdf a shapefile" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/05/import_pdf_01.jpg?w=1920&amp;ssl=1 1920w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/05/import_pdf_01.jpg?resize=300%2C165&amp;ssl=1 300w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/05/import_pdf_01.jpg?resize=768%2C421&amp;ssl=1 768w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/05/import_pdf_01.jpg?resize=1024%2C562&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="1440" data-permalink="https://coseerobe.github.io/coseerobe.it/tutorial-da-file-pdf-a-shapefile.html/import_pdf_01" data-orig-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/05/import_pdf_01.jpg?fit=1920%2C1053&amp;ssl=1" data-orig-size="1920,1053" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Gb-Gis&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1493395030&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="import_pdf_01" data-image-description="" data-image-caption="" data-medium-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/05/import_pdf_01.jpg?fit=300%2C165&amp;ssl=1" data-large-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/05/import_pdf_01.jpg?fit=1024%2C562&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Raccolta tutorial per opendata, un&#8217;idea di Ciro Spataro</title>
+		<link>https://coseerobe.github.io/coseerobe.it/tutorial-opendata.html</link>
+		
+		<dc:creator><![CDATA[annalisa]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2016 11:39:22 +0000</pubDate>
+				<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[opendata]]></category>
+		<guid isPermaLink="false">https://coseerobe.github.io/coseerobe.it/?p=589</guid>
+
+					<description><![CDATA[<img width="768" height="144" src="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/12/opendata.png?fit=768%2C144&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Raccolta tutorial per opendata, un&#039;idea di Ciro Spataro" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/12/opendata.png?w=1200&amp;ssl=1 1200w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/12/opendata.png?resize=300%2C56&amp;ssl=1 300w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/12/opendata.png?resize=768%2C144&amp;ssl=1 768w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/12/opendata.png?resize=1024%2C192&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="593" data-permalink="https://coseerobe.github.io/coseerobe.it/tutorial-opendata.html/opendata" data-orig-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/12/opendata.png?fit=1200%2C225&amp;ssl=1" data-orig-size="1200,225" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Raccolta tutorial per opendata, un&#8217;idea di Ciro Spataro" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/12/opendata.png?fit=300%2C56&amp;ssl=1" data-large-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/12/opendata.png?fit=1024%2C192&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rielaborazione della mappa le Vie dei Tesori Città di Palermo</title>
+		<link>https://coseerobe.github.io/coseerobe.it/rielaborazione-della-mappa-le-vie-dei-tesori-citta-di-palermo.html</link>
+		
+		<dc:creator><![CDATA[annalisa]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2016 09:42:37 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[comune di palermo]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[geonue]]></category>
+		<category><![CDATA[luoghi interesse]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[trasporti pubblici]]></category>
+		<category><![CDATA[turismo]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umap]]></category>
+		<category><![CDATA[vie dei tesori]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=314</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_vie_dei_tesori.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Rielaborazione della mappa le Vie dei Tesori Città di Palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_vie_dei_tesori.jpg?w=1084&amp;ssl=1 1084w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_vie_dei_tesori.jpg?resize=520%2C139&amp;ssl=1 520w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_vie_dei_tesori.jpg?resize=300%2C80&amp;ssl=1 300w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_vie_dei_tesori.jpg?resize=768%2C205&amp;ssl=1 768w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_vie_dei_tesori.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="315" data-permalink="https://coseerobe.github.io/coseerobe.it/rielaborazione-della-mappa-le-vie-dei-tesori-citta-di-palermo.html/mappe_vie_dei_tesori" data-orig-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_vie_dei_tesori.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappe_vie_dei_tesori" data-image-description="" data-image-caption="" data-medium-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_vie_dei_tesori.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_vie_dei_tesori.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Segnalazioni incidenti real time del Comando Polizia Municipale di Palermo &#8211; Mappa densità</title>
+		<link>https://coseerobe.github.io/coseerobe.it/segnalazioni-incidenti-real-time-del-comando-polizia-municipale-di-palermo.html</link>
+		
+		<dc:creator><![CDATA[daniele]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2016 08:50:16 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[comune di palermo]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[feed rss]]></category>
+		<category><![CDATA[geonue]]></category>
+		<category><![CDATA[incidenti]]></category>
+		<category><![CDATA[mappa densità]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[poliza municiaple palermo]]></category>
+		<category><![CDATA[realtime]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[umap]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=440</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_incidenti_densita.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Segnalazioni incidenti real time del Comando Polizia Municipale di Palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_incidenti_densita.jpg?w=1084&amp;ssl=1 1084w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_incidenti_densita.jpg?resize=300%2C80&amp;ssl=1 300w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_incidenti_densita.jpg?resize=768%2C205&amp;ssl=1 768w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_incidenti_densita.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="441" data-permalink="https://coseerobe.github.io/coseerobe.it/segnalazioni-incidenti-real-time-del-comando-polizia-municipale-di-palermo.html/mappe_incidenti_densita" data-orig-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_incidenti_densita.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Gb-Gis&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1480412676&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Segnalazioni incidenti real time del Comando Polizia Municipale di Palermo" data-image-description="" data-image-caption="" data-medium-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_incidenti_densita.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_incidenti_densita.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Avvisi real time del Comando Polizia Municipale di Palermo</title>
+		<link>https://coseerobe.github.io/coseerobe.it/avvisi-real-time-del-comando-polizia-municipale-di-palermo.html</link>
+		
+		<dc:creator><![CDATA[annalisa]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 22:00:51 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[avvisi]]></category>
+		<category><![CDATA[comune di palermo]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[feed rss]]></category>
+		<category><![CDATA[geonue]]></category>
+		<category><![CDATA[incidenti]]></category>
+		<category><![CDATA[lavori in corso]]></category>
+		<category><![CDATA[manifestazioni]]></category>
+		<category><![CDATA[mappa densità]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[poliza municiaple palermo]]></category>
+		<category><![CDATA[realtime]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[umap]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=352</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_avvisi_pm-1.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Avvisi real time del Comando Polizia Municipale di Palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_avvisi_pm-1.jpg?w=1084&amp;ssl=1 1084w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_avvisi_pm-1.jpg?resize=520%2C139&amp;ssl=1 520w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_avvisi_pm-1.jpg?resize=300%2C80&amp;ssl=1 300w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_avvisi_pm-1.jpg?resize=768%2C205&amp;ssl=1 768w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_avvisi_pm-1.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="353" data-permalink="https://coseerobe.github.io/coseerobe.it/avvisi-real-time-del-comando-polizia-municipale-di-palermo.html/mappa_avvisi_pm-2" data-orig-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_avvisi_pm-1.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Gb-Gis&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1480152933&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappa_avvisi_pm" data-image-description="" data-image-caption="" data-medium-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_avvisi_pm-1.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_avvisi_pm-1.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Luoghi di interesse turistico, culturale, archelologico, artistico di Palermo</title>
+		<link>https://coseerobe.github.io/coseerobe.it/luoghi-di-interesse-turistico-culturale-archelologico-artistico-di-palermo.html</link>
+		
+		<dc:creator><![CDATA[annalisa]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 21:59:25 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[comune di palermo]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[geonue]]></category>
+		<category><![CDATA[luoghi interesse]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[trasporti pubblici]]></category>
+		<category><![CDATA[turismo]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umap]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=349</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_tutismo_03.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Luoghi di interesse turistico, culturale, archelologico, artistico di Palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_tutismo_03.jpg?w=1084&amp;ssl=1 1084w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_tutismo_03.jpg?resize=300%2C80&amp;ssl=1 300w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_tutismo_03.jpg?resize=768%2C205&amp;ssl=1 768w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_tutismo_03.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="1598" data-permalink="https://coseerobe.github.io/coseerobe.it/luoghi-di-interesse-turistico-culturale-archelologico-artistico-di-palermo.html/mappa_tutismo_03" data-orig-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_tutismo_03.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="mappa_tutismo_03" data-image-description="" data-image-caption="" data-medium-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_tutismo_03.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_tutismo_03.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenTripPlanner Palermo &#8211; Calcola il tuo percorso multinodale</title>
+		<link>https://coseerobe.github.io/coseerobe.it/opentripplanner-palermo-calcola-il-tuo-percorso-multinodale.html</link>
+		
+		<dc:creator><![CDATA[annalisa]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 21:58:17 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[comune di palermo]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[geonue]]></category>
+		<category><![CDATA[gtfs]]></category>
+		<category><![CDATA[luoghi interesse]]></category>
+		<category><![CDATA[mappa]]></category>
+		<category><![CDATA[openamat]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[opentripplanner]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[trasporti pubblici]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umap]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=346</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_otp_01.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="OpenTripPlanner Palermo - Calcola il tuo percorso multinodale" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_otp_01.jpg?w=1084&amp;ssl=1 1084w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_otp_01.jpg?resize=520%2C139&amp;ssl=1 520w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_otp_01.jpg?resize=300%2C80&amp;ssl=1 300w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_otp_01.jpg?resize=768%2C205&amp;ssl=1 768w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_otp_01.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="347" data-permalink="https://coseerobe.github.io/coseerobe.it/opentripplanner-palermo-calcola-il-tuo-percorso-multinodale.html/mappa_otp_01" data-orig-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_otp_01.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="mappa_otp_01" data-image-description="" data-image-caption="" data-medium-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_otp_01.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappa_otp_01.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Geocoding con Google OpenRefine dei beni immobili della  Città di Palermo</title>
+		<link>https://coseerobe.github.io/coseerobe.it/geocoding-con-google-openrefine-dei-beni-immobili-della-citta-di-palermo.html</link>
+		
+		<dc:creator><![CDATA[annalisa]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 21:54:53 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[geocoding]]></category>
+		<category><![CDATA[google maps]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[tables]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=337</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_google_refine.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Geocoding con Google OpenRefine dei beni immobili della Città di Palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_google_refine.jpg?w=1084&amp;ssl=1 1084w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_google_refine.jpg?resize=520%2C139&amp;ssl=1 520w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_google_refine.jpg?resize=300%2C80&amp;ssl=1 300w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_google_refine.jpg?resize=768%2C205&amp;ssl=1 768w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_google_refine.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="339" data-permalink="https://coseerobe.github.io/coseerobe.it/geocoding-con-google-openrefine-dei-beni-immobili-della-citta-di-palermo.html/mappe_google_refine" data-orig-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_google_refine.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappe_google_refine" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_google_refine.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_google_refine.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mappa stazioni di monitoraggio polveri sottili 2016 della Città di Palermo</title>
+		<link>https://coseerobe.github.io/coseerobe.it/mappa-stazioni-di-monitoraggio-polveri-sottili-2016-della-citta-di-palermo.html</link>
+		
+		<dc:creator><![CDATA[annalisa]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 21:54:00 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[ambiente]]></category>
+		<category><![CDATA[centraline di rilevamento]]></category>
+		<category><![CDATA[comune di palermo]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[geonue]]></category>
+		<category><![CDATA[inquinamento]]></category>
+		<category><![CDATA[inquinamento ambientale]]></category>
+		<category><![CDATA[mappa]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[pm10]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umap]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=334</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_pm10.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Mappa stazioni di monitoraggio polveri sottili 2016 della Città di Palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_pm10.jpg?w=1084&amp;ssl=1 1084w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_pm10.jpg?resize=520%2C139&amp;ssl=1 520w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_pm10.jpg?resize=300%2C80&amp;ssl=1 300w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_pm10.jpg?resize=768%2C205&amp;ssl=1 768w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_pm10.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="335" data-permalink="https://coseerobe.github.io/coseerobe.it/mappa-stazioni-di-monitoraggio-polveri-sottili-2016-della-citta-di-palermo.html/mappe_pm10" data-orig-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_pm10.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappe_pm10" data-image-description="" data-image-caption="" data-medium-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_pm10.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_pm10.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TimeMapper  delle Vie dei Tesori 2016 della Città di Palermo</title>
+		<link>https://coseerobe.github.io/coseerobe.it/timemapper-delle-vie-dei-tesori-2016-della-citta-di-palermo.html</link>
+		
+		<dc:creator><![CDATA[annalisa]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 21:53:27 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[comune di palermo]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[geonue]]></category>
+		<category><![CDATA[luoghi interesse]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[timemapper]]></category>
+		<category><![CDATA[trasporti pubblici]]></category>
+		<category><![CDATA[turismo]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umap]]></category>
+		<category><![CDATA[vie dei tesori]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=331</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe.vie_dei_tesori.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="TimeMapper delle Vie dei Tesori 2016 della Città di Palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe.vie_dei_tesori.jpg?w=1084&amp;ssl=1 1084w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe.vie_dei_tesori.jpg?resize=520%2C139&amp;ssl=1 520w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe.vie_dei_tesori.jpg?resize=300%2C80&amp;ssl=1 300w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe.vie_dei_tesori.jpg?resize=768%2C205&amp;ssl=1 768w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe.vie_dei_tesori.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="332" data-permalink="https://coseerobe.github.io/coseerobe.it/timemapper-delle-vie-dei-tesori-2016-della-citta-di-palermo.html/mappe-vie_dei_tesori" data-orig-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe.vie_dei_tesori.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappe-vie_dei_tesori" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe.vie_dei_tesori.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe.vie_dei_tesori.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rielaborazione dataset &#8220;Rilevazioni Numeri Civici&#8221; della Città di Palermo</title>
+		<link>https://coseerobe.github.io/coseerobe.it/rielaborazione-dataset-rilevazioni-numeri-civici-della-citta-di-palermo.html</link>
+		
+		<dc:creator><![CDATA[coseerobe]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 21:44:35 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[geonue]]></category>
+		<category><![CDATA[google maps]]></category>
+		<category><![CDATA[istat]]></category>
+		<category><![CDATA[mappa]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[qgis]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[tables]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umap]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=320</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_rnc-1.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Rielaborazione dataset &quot;Rilevazioni Numeri Civici&quot; della Città di Palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_rnc-1.jpg?w=1084&amp;ssl=1 1084w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_rnc-1.jpg?resize=520%2C139&amp;ssl=1 520w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_rnc-1.jpg?resize=300%2C80&amp;ssl=1 300w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_rnc-1.jpg?resize=768%2C205&amp;ssl=1 768w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_rnc-1.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="281" data-permalink="https://coseerobe.github.io/coseerobe.it/piano-triennale-oo-pp-della-citta-di-palermo.html/mappe_rnc-2" data-orig-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_rnc-1.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappe_rnc" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_rnc-1.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_rnc-1.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Geocoding sull&#8217;elenco opendata degli acconciatori ed estetisti Città di Palermo</title>
+		<link>https://coseerobe.github.io/coseerobe.it/geocoding-sullelenco-opendata-degli-acconciatori-ed-estetisti-citta-di-palermo.html</link>
+		
+		<dc:creator><![CDATA[daniele]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 21:43:41 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[geocoding]]></category>
+		<category><![CDATA[google maps]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[tables]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=317</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_acconciatori.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Geocoding sull&#039;elenco opendata degli acconciatori ed estetisti Città di Palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_acconciatori.jpg?w=1084&amp;ssl=1 1084w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_acconciatori.jpg?resize=520%2C139&amp;ssl=1 520w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_acconciatori.jpg?resize=300%2C80&amp;ssl=1 300w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_acconciatori.jpg?resize=768%2C205&amp;ssl=1 768w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_acconciatori.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="318" data-permalink="https://coseerobe.github.io/coseerobe.it/geocoding-sullelenco-opendata-degli-acconciatori-ed-estetisti-citta-di-palermo.html/mappe_acconciatori" data-orig-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_acconciatori.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappe_acconciatori" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_acconciatori.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_acconciatori.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trasporti pubblici Città di Palermo con il tutorial di @piersoft</title>
+		<link>https://coseerobe.github.io/coseerobe.it/trasporti-pubblici-citta-di-palermo-con-il-tutorial-di-piersoft.html</link>
+		
+		<dc:creator><![CDATA[daniele]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 21:41:54 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[comune di palermo]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[geonue]]></category>
+		<category><![CDATA[gtfs]]></category>
+		<category><![CDATA[openamat]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[piersoft]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[trasporti pubblici]]></category>
+		<category><![CDATA[turismo]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umap]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=311</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piersoft.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Trasporti pubblici Città di Palermo con il tutorial di @piersoft" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piersoft.jpg?w=1084&amp;ssl=1 1084w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piersoft.jpg?resize=520%2C139&amp;ssl=1 520w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piersoft.jpg?resize=300%2C80&amp;ssl=1 300w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piersoft.jpg?resize=768%2C205&amp;ssl=1 768w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piersoft.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="312" data-permalink="https://coseerobe.github.io/coseerobe.it/trasporti-pubblici-citta-di-palermo-con-il-tutorial-di-piersoft.html/mappe_piersoft" data-orig-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piersoft.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappe_piersoft" data-image-description="" data-image-caption="" data-medium-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piersoft.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piersoft.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

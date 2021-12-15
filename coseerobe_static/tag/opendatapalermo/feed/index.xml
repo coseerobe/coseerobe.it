@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>opendatapalermo &#8211; Cose&amp;Robe &#8211; Rielaborazioni dataset opendata &#8211; @gbvitrano</title>
+	<atom:link href="https://coseerobe.github.io/coseerobe.it/tag/opendatapalermo/feed" rel="self" type="application/rss+xml" />
+	<link>https://coseerobe.github.io/coseerobe.it/</link>
+	<description></description>
+	<lastBuildDate>Mon, 05 Jun 2017 19:35:36 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/favicon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>opendatapalermo &#8211; Cose&amp;Robe &#8211; Rielaborazioni dataset opendata &#8211; @gbvitrano</title>
+	<link>https://coseerobe.github.io/coseerobe.it/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Modello digitale del terreno di Palermo e unità volumetriche</title>
+		<link>https://coseerobe.github.io/coseerobe.it/modello-digitale-del-terreno-di-palermo-e-unita-volumetriche.html</link>
+		
+		<dc:creator><![CDATA[coseerobe]]></dc:creator>
+		<pubDate>Thu, 16 Mar 2017 13:27:28 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[DEM]]></category>
+		<category><![CDATA[DTM]]></category>
+		<category><![CDATA[leaflet]]></category>
+		<category><![CDATA[opendatapalermo]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[qgis]]></category>
+		<category><![CDATA[unità volumetriche]]></category>
+		<guid isPermaLink="false">https://coseerobe.github.io/coseerobe.it/?p=1060</guid>
+
+					<description><![CDATA[<img width="768" height="218" src="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/03/mappa_dem_volumetrie_pa.jpg?fit=768%2C218&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Qgis - Modello digitale del terreno di Palermo e unità volumetriche" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/03/mappa_dem_volumetrie_pa.jpg?w=1024&amp;ssl=1 1024w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/03/mappa_dem_volumetrie_pa.jpg?resize=300%2C85&amp;ssl=1 300w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/03/mappa_dem_volumetrie_pa.jpg?resize=768%2C218&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="1061" data-permalink="https://coseerobe.github.io/coseerobe.it/modello-digitale-del-terreno-di-palermo-e-unita-volumetriche.html/mappa_dem_volumetrie_pa" data-orig-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/03/mappa_dem_volumetrie_pa.jpg?fit=1024%2C290&amp;ssl=1" data-orig-size="1024,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappa_dem_volumetrie_pa" data-image-description="" data-image-caption="" data-medium-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/03/mappa_dem_volumetrie_pa.jpg?fit=300%2C85&amp;ssl=1" data-large-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2017/03/mappa_dem_volumetrie_pa.jpg?fit=1024%2C290&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mappa Edilizia degradata &#8211; Centro Storico Palermo &#8211; Giugno 2013</title>
+		<link>https://coseerobe.github.io/coseerobe.it/mappa-edilizia-degradata-centro-storico-palermo-giugno-2013.html</link>
+		
+		<dc:creator><![CDATA[daniele]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 21:39:20 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[edilizia degradata]]></category>
+		<category><![CDATA[mappa]]></category>
+		<category><![CDATA[opendatapalermo]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[umap]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=303</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_edilizia_degradata.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Mappa Edilizia degrdata - Centro Storico Palermo - Giugno 2013" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_edilizia_degradata.jpg?w=1084&amp;ssl=1 1084w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_edilizia_degradata.jpg?resize=520%2C139&amp;ssl=1 520w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_edilizia_degradata.jpg?resize=300%2C80&amp;ssl=1 300w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_edilizia_degradata.jpg?resize=768%2C205&amp;ssl=1 768w, https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_edilizia_degradata.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="292" data-permalink="https://coseerobe.github.io/coseerobe.it/zonizzazione-e-vincoli-sul-territorio-della-citta-di-palermo.html/mappe_edilizia_degradata" data-orig-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_edilizia_degradata.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappe_edilizia_degradata" data-image-description="" data-image-caption="" data-medium-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_edilizia_degradata.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_edilizia_degradata.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mappa calore dei beni confiscati alle criminalità in Italia</title>
+		<link>https://coseerobe.github.io/coseerobe.it/mappa-calore-dei-beni-confiscati-alle-criminalita-in-italia.html</link>
+		
+		<dc:creator><![CDATA[daniele]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 20:14:13 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[beni confiscati]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[geonue]]></category>
+		<category><![CDATA[mappa]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[opendatapalermo]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umap]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=285</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_beni.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Mappa calore dei beni confiscati alle criminalità in Italia" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_beni.jpg?w=1084&amp;ssl=1 1084w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_beni.jpg?resize=520%2C139&amp;ssl=1 520w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_beni.jpg?resize=300%2C80&amp;ssl=1 300w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_beni.jpg?resize=768%2C205&amp;ssl=1 768w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_beni.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="283" data-permalink="https://coseerobe.github.io/coseerobe.it/mappatura-al-2010-degli-interventi-nel-centro-storico-di-palermo.html/mappe_beni" data-orig-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_beni.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappe_beni" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_beni.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_beni.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Piano Triennale OO PP della Città di Palermo</title>
+		<link>https://coseerobe.github.io/coseerobe.it/piano-triennale-oo-pp-della-citta-di-palermo.html</link>
+		
+		<dc:creator><![CDATA[annalisa]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 20:04:49 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[lavori pubblici]]></category>
+		<category><![CDATA[mappa]]></category>
+		<category><![CDATA[oo pp]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[opendatapalermo]]></category>
+		<category><![CDATA[palermo]]></category>
+		<category><![CDATA[Piano Triennale]]></category>
+		<category><![CDATA[regione]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[umap]]></category>
+		<guid isPermaLink="false">http://localhost/coseerobe/?p=279</guid>
+
+					<description><![CDATA[<img width="768" height="205" src="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piano_oo_pp.jpg?fit=768%2C205&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="Piano Triennale OO PP della Città di Palermo" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piano_oo_pp.jpg?w=1084&amp;ssl=1 1084w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piano_oo_pp.jpg?resize=520%2C139&amp;ssl=1 520w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piano_oo_pp.jpg?resize=300%2C80&amp;ssl=1 300w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piano_oo_pp.jpg?resize=768%2C205&amp;ssl=1 768w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piano_oo_pp.jpg?resize=1024%2C274&amp;ssl=1 1024w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="295" data-permalink="https://coseerobe.github.io/coseerobe.it/piano-triennale-oo-pp-della-citta-di-palermo.html/mappe_piano_oo_pp" data-orig-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piano_oo_pp.jpg?fit=1084%2C290&amp;ssl=1" data-orig-size="1084,290" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappe_piano_oo_pp" data-image-description="" data-image-caption="" data-medium-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piano_oo_pp.jpg?fit=300%2C80&amp;ssl=1" data-large-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/mappe_piano_oo_pp.jpg?fit=1024%2C274&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

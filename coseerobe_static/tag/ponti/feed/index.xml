@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ponti &#8211; Cose&amp;Robe &#8211; Rielaborazioni dataset opendata &#8211; @gbvitrano</title>
+	<atom:link href="https://coseerobe.github.io/coseerobe.it/tag/ponti/feed" rel="self" type="application/rss+xml" />
+	<link>https://coseerobe.github.io/coseerobe.it/</link>
+	<description></description>
+	<lastBuildDate>Mon, 18 Mar 2019 08:07:52 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i1.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2016/11/favicon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Ponti &#8211; Cose&amp;Robe &#8211; Rielaborazioni dataset opendata &#8211; @gbvitrano</title>
+	<link>https://coseerobe.github.io/coseerobe.it/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mappa dei ponti e viadotti siciliani interattiva e grafica dinamica elaborata con Tableau Public</title>
+		<link>https://coseerobe.github.io/coseerobe.it/mappa-dei-ponti-e-viadotti-siciliani-interattiva-e-grafica-dinamica-elaborata-con-tableau-public.html</link>
+		
+		<dc:creator><![CDATA[coseerobe]]></dc:creator>
+		<pubDate>Tue, 28 Aug 2018 07:11:24 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[Ponti]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[Tableau]]></category>
+		<guid isPermaLink="false">https://coseerobe.github.io/coseerobe.it/?p=3519</guid>
+
+					<description><![CDATA[<img width="768" height="432" src="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/ponti_tableau.jpg?fit=768%2C432&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/ponti_tableau.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/ponti_tableau.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/ponti_tableau.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="3520" data-permalink="https://coseerobe.github.io/coseerobe.it/mappa-dei-ponti-e-viadotti-siciliani-interattiva-e-grafica-dinamica-elaborata-con-tableau-public.html/ponti_tableau" data-orig-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/ponti_tableau.jpg?fit=1024%2C576&amp;ssl=1" data-orig-size="1024,576" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ponti_tableau" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/ponti_tableau.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/ponti_tableau.jpg?fit=1024%2C576&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sicurezza ponti e cavalcavia &#8211; Palermo &#8211; Agosto 2018</title>
+		<link>https://coseerobe.github.io/coseerobe.it/sicurezza-ponti-e-cavalcavia-palermo-agosto-2018.html</link>
+		
+		<dc:creator><![CDATA[coseerobe]]></dc:creator>
+		<pubDate>Mon, 27 Aug 2018 06:00:27 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[comune di palermo]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[Ponti]]></category>
+		<category><![CDATA[sicurezza]]></category>
+		<category><![CDATA[Viadotti]]></category>
+		<guid isPermaLink="false">https://coseerobe.github.io/coseerobe.it/?p=3503</guid>
+
+					<description><![CDATA[<img width="768" height="431" src="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/umap_ponti_palermo.jpg?fit=768%2C431&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/umap_ponti_palermo.jpg?w=1024&amp;ssl=1 1024w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/umap_ponti_palermo.jpg?resize=300%2C168&amp;ssl=1 300w, https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/umap_ponti_palermo.jpg?resize=768%2C431&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="3505" data-permalink="https://coseerobe.github.io/coseerobe.it/sicurezza-ponti-e-cavalcavia-palermo-agosto-2018.html/umap_ponti_palermo" data-orig-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/umap_ponti_palermo.jpg?fit=1024%2C575&amp;ssl=1" data-orig-size="1024,575" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="umap_ponti_palermo" data-image-description="" data-image-caption="" data-medium-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/umap_ponti_palermo.jpg?fit=300%2C168&amp;ssl=1" data-large-file="https://i2.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/umap_ponti_palermo.jpg?fit=1024%2C575&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ponti e viadotti italiani &#8211; Agosto 2018</title>
+		<link>https://coseerobe.github.io/coseerobe.it/sicilia-ponti-e-viadotti.html</link>
+		
+		<dc:creator><![CDATA[coseerobe]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2018 11:09:07 +0000</pubDate>
+				<category><![CDATA[mappe]]></category>
+		<category><![CDATA[Italia]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[osm]]></category>
+		<category><![CDATA[Ponti]]></category>
+		<category><![CDATA[sicilia]]></category>
+		<category><![CDATA[Viadotti]]></category>
+		<guid isPermaLink="false">https://coseerobe.github.io/coseerobe.it/?p=3455</guid>
+
+					<description><![CDATA[<img width="768" height="432" src="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/mappa_pontieviadotti_02.jpg?fit=768%2C432&amp;ssl=1" class="webfeedsFeaturedVisual wp-post-image" alt="" loading="lazy" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="" srcset="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/mappa_pontieviadotti_02.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/mappa_pontieviadotti_02.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/mappa_pontieviadotti_02.jpg?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="3487" data-permalink="https://coseerobe.github.io/coseerobe.it/sicilia-ponti-e-viadotti.html/mappa_pontieviadotti_02" data-orig-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/mappa_pontieviadotti_02.jpg?fit=1024%2C576&amp;ssl=1" data-orig-size="1024,576" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mappa_pontieviadotti_02" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/mappa_pontieviadotti_02.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/coseerobe.gbvitrano.it/rec/wp-content/uploads/2018/08/mappa_pontieviadotti_02.jpg?fit=1024%2C576&amp;ssl=1" />&#46;&#46;&#46;]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
